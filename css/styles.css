@@ -55,7 +55,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .header-address {
   font-style: normal;
@@ -73,12 +73,12 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .hero-section {
   background: #2e2f42;
 }
-h1 {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07143;
@@ -93,8 +93,12 @@ h1 {
   letter-spacing: 0.04em;
   color: #fff;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   border-radius: 4px;
+}
+.hero-butn:hover,
+.hero-butn:focus {
+  background-color: #404bbf;
 }
 .features-title {
   font-weight: 500;
