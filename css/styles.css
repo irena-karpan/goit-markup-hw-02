@@ -35,11 +35,6 @@ button {
 }
 .header-logo-span:hover,
 .header-logo-span:focus {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
 }
 .header-nav-list-item {
@@ -51,10 +46,6 @@ button {
 }
 .header-nav-list-item:hover,
 .header-nav-list-item:focus {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 .header-address {
@@ -69,10 +60,6 @@ button {
 }
 .address-list-item:hover,
 .address-list-item:focus {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #404bbf;
 }
 .hero-section {
@@ -192,11 +179,6 @@ button {
 }
 .footer-logo-span:hover,
 .footer-logo-span:focus {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
 }
 .footer-descr {
